@@ -1,2 +1,0 @@
-# retrieval-strategists
-Group project.
